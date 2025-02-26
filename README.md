@@ -107,16 +107,6 @@ public class TwitchManager : MonoBehaviour
     </li>
   </ul>
 
-  <hr />
-
-  <h2>Connect With Me</h2>
-  <p align="left">
-    <a href="https://github.com/yourusername" target="_blank">GitHub</a> •
-    <a href="https://twitter.com/yourtwitter" target="_blank">Twitter</a>
-  </p>
-
-  <hr />
-
   <h2>License</h2>
   <p>
     This project is open source. Feel free to use and modify it according to your needs.
